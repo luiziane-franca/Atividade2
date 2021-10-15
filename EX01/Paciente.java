@@ -5,10 +5,6 @@
  */
 package luiza121021_02_01;
 
-/**
- * String, Int, Bool, Float
- * @author Nid
- */
 public class Paciente {
     private int cod;
     private String nome;
