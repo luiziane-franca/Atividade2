@@ -5,10 +5,6 @@
  */
 package luiza121021_02_03;
 
-/**
- *
- * @author Nid
- */
 public class Aviao {
     private int altitude = 0;
     private int velocidade = 0;
