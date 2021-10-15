@@ -5,10 +5,6 @@
  */
 package luiza121021_02_02;
 
-/**
- *
- * @author Nid
- */
 public class Post {
    private String texto;
    private String link;
