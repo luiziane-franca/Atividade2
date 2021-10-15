@@ -7,10 +7,6 @@ package luiza121021_02_05;
 
 import java.util.LinkedList;
 
-/**
- *
- * @author Nid
- */
 public class Luiza121021_02_05 {
 
     /**
